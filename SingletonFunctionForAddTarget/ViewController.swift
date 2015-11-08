@@ -19,7 +19,6 @@ class ViewController: UIViewController {
     }
 }
 
-
 class MySingletonClass:NSObject {
     static let sharedInstance = MySingletonClass()
     
