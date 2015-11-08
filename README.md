@@ -2,7 +2,7 @@
 How to add a function to .addTarget from another class.
 
 Status:
-https://travis-ci.org/fatihyildizhan/SingletonFunctionForAddTarget.svg?branch=master
+![alt tag](https://travis-ci.org/fatihyildizhan/SingletonFunctionForAddTarget.svg?branch=master)
 
     // in class 1
     override func viewDidLoad() {
