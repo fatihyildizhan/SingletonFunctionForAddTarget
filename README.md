@@ -1,7 +1,6 @@
 # Singleton Function For AddTarget
 How to add a function to .addTarget from another class.
 
-Status:
 ![alt tag](https://travis-ci.org/fatihyildizhan/SingletonFunctionForAddTarget.svg?branch=master)
 
     // in class 1
