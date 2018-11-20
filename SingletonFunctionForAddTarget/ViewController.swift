@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
        
-        btnGotoVacation.addTarget(MySingletonClass.sharedInstance, action: Selector("visitBodrum:"), forControlEvents:.TouchUpInside)
+        btnGotoVacation.addTarget(MySingletonClass.sharedInstance, action: Selector(("visitBodrum:")), for:.touchUpInside)
     }
 }
 
