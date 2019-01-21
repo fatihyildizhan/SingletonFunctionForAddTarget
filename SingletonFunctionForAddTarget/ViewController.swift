@@ -23,6 +23,6 @@ class MySingletonClass:NSObject {
     static let sharedInstance = MySingletonClass()
     
     func visitBodrum(sender:AnyObject) {
-        print("don't forget to visit yalikavak :) ")
+        print("don't forget to visit yalikavak :)")
     }
 }
